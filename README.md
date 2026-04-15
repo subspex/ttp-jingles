@@ -9,8 +9,8 @@ More consoles are planned, be sure to keep up to date with it!
 
 ### Next Consoles:
 
--**SNES**
--**Gameboy**
+- **SNES**
+- **Gameboy**
 
 ## How can I use TTP Jingles?
 

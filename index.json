@@ -9,6 +9,10 @@
       "game": "Super Mario Bros",
       "file": "jingles/nes/Super Mario Bros.mp3"
     },
+      {
+      "game": "Excitebike",
+      "file": "jingles/nes/Excitebike.mp3"
+    },
        {
       "game": "Mike Tyson's Punch Out!!",
       "file": "jingles/nes/Mike Tyson's Punch Out!!.mp3"

@@ -5,6 +5,18 @@
       "game": "Kirby's Adventure",
       "file": "jingles/nes/Kirby's Adventure.mp3"
     },
+       {
+      "game": "Super Mario Bros",
+      "file": "jingles/nes/Super Mario Bros.mp3"
+    },
+       {
+      "game": "Mike Tyson's Punch Out!!",
+      "file": "jingles/nes/Punch Out!!.mp3"
+    },
+       {
+      "game": "Wrecking Crew",
+      "file": "jingles/nes/Wrecking Crew.mp3"
+    },
     {
       "game": "Super Mario Bros 2",
       "file": "jingles/nes/Super Mario Bros 2.mp3"

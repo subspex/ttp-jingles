@@ -3,11 +3,11 @@
   "entries": [
     {
       "game": "Kirby's Adventure",
-      "file": "jingles/jingles_nes_Kirby's Adventure.mp3"
+      "file": "jingles/nes/Kirby's Adventure"
     },
     {
-      "game": "Example Game 2",
-      "file": "jingles/example-game-2.mp3"
+      "game": "Super Mario Bros. 2",
+      "file": "jingles/nes/Super Mario Bros. 2"
     }
   ]
 }

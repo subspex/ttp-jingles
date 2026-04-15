@@ -6,8 +6,7 @@ To The Point is a project that aims to produce shorten the length of jingles, le
 ## What Consoles are currently being worked on?
 In it's ***very early*** state (as of **4/15/26**) TTP is currently experimenting with the ***NES***.
 
-More consoles are planned, be sure to keep up to date with it!
-
+More consoles are planned, be sure to check in every so often!
 ### Next Consoles:
 
 - **SNES**

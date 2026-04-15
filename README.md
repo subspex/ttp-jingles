@@ -15,4 +15,4 @@ More consoles are planned, be sure to check in every so often!
 ## How can I use TTP Jingles?
 
 - In Cocoon, go to **Settings → Library & Data → Jingle Repositories**
-   and add the repo as `SubwayRon/ttp-jingles`.
+   and add the repo as `subspex/ttp-jingles`.

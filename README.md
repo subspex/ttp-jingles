@@ -1,7 +1,16 @@
 # To The Point Jingles
 
-A repository dedicated to the shortening of jingles, providing bite-sized compatibility with
-[Cocoon](https://github.com/inssekt/CocoonFE).
+To The Point is a project that aims to produce shorten the length of jingles, leaving them bite-sized for [Cocoon](https://github.com/inssekt/CocoonFE).
+
+
+## What Consoles are currently being worked on?
+In it's very early state (as of 4/15/26) TTP is currently experimenting with the ***NES***.
+More consoles are planned, be sure to keep up to date with it!
+
+### Next Consoles:
+
+-**SNES**
+-**Gameboy**
 
 ## How can I use TTP Jingles?
 

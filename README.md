@@ -1,6 +1,6 @@
 # To The Point Jingles
 
-To The Point is a project that aims to produce shorten the length of jingles, leaving them bite-sized for [Cocoon](https://github.com/inssekt/CocoonFE).
+To The Point is a project that aims to shorten the length of jingles, leaving them bite-sized for [Cocoon](https://github.com/inssekt/CocoonFE).
 
 
 ## What Consoles are currently being worked on?

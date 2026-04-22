@@ -29,9 +29,17 @@
       "game": "Balloon Fight",
       "file": "jingles/nes/Balloon Fight.mp3"
     },
-    {
+      {
+      "game": "Dr. Mario",
+      "file": "jingles/nes/Dr. Mario.mp3"
+    },
+      {
       "game": "Super Mario Bros 2",
       "file": "jingles/nes/Super Mario Bros 2.mp3"
-    }
+    },
+      {
+      "game": "Tomodachi Life: Living The Dream",
+      "file": "jingles/switch/Tomodachi Life Living The Dream.mp3"
+    },
   ]
 }
